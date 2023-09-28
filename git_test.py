@@ -4,3 +4,4 @@
 
 print("I am somewhat familiar with Git")
 print("Jk, I don't know Git")
+print("Stashing and unstashing")
