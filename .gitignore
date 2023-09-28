@@ -4,6 +4,6 @@
 *.doc
 *.docx
 *.jpg
-
+*.DS_Store
 #Ignore the whole folder and its contents:
 /screen_captures
